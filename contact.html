@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact | Moonlit Manhattan</title>
+<link rel="stylesheet" href="style.css">
+<script src="script.js" defer></script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<!-- The same header and navigation appear on each page. -->
+<header><h2>Moonlit Manhattan</h2><p>Built for the city after midnight.</p></header>
+<nav aria-label="Main navigation"><a href="index.html">Home</a>
+<a href="collection.html">Collection</a>
+<a href="about.html">About</a>
+<a href="contact.html" aria-current="page">Contact</a></nav>
+<main id="main"><h1>Contact Us</h1><p>Have a question about a design or the brand? Try the form below.</p><p class="notice">Class demonstration: this form checks your entries, but does not send or save your information. For real inquiries, visit the <a href="https://moonlitmanhattan.com/">official website</a>.</p><!-- Each input has a visible label and an associated error message. --><form id="contact-form" novalidate><p>All fields are required.</p><label for="name">Name</label><input id="name" name="name" autocomplete="name" required aria-describedby="name-error"><span id="name-error" class="error"></span><label for="email">Email</label><input id="email" name="email" type="email" autocomplete="email" required aria-describedby="email-error"><span id="email-error" class="error"></span><label for="message">Message</label><textarea id="message" name="message" rows="5" required aria-describedby="message-error"></textarea><span id="message-error" class="error"></span><button type="submit">Check Message</button><p id="form-status" role="status"></p></form></main>
+<footer><p>Moonlit Manhattan | Class project by Ramis Akram</p><a href="https://moonlitmanhattan.com/">Visit the official website</a><p class="small">This separate class website is a concept showcase. No orders or messages are processed.</p></footer>
+</body>
+</html>
