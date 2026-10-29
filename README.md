@@ -2,7 +2,7 @@
 
 ## Project overview
 
-This project is a simple four-page website for Moonlit Manhattan, a real clothing brand being developed by Ramis Akram. It is a separate class project and does not replace the existing business website. The site introduces the brand, shows four concept designs, and demonstrates basic JavaScript.
+For this project, I chose Moonlit Manhattan, a clothing brand I am working on. I already have a website for the business, so this is a separate version for class. I kept it simple with four pages, a few clothing designs, and basic JavaScript.
 
 ## Part 1: Content
 
@@ -10,48 +10,48 @@ This project is a simple four-page website for Moonlit Manhattan, a real clothin
 Moonlit Manhattan.
 
 ### 2. Is the business real or fictional?
-It is a real clothing brand in development. Its existing website is https://moonlitmanhattan.com/. This class version is newly built and hosted separately.
+It is a real clothing brand I am developing. My current website is https://moonlitmanhattan.com/. This version is separate for the class project.
 
 ### 3. What products or services does the business offer?
-The brand focuses on clothing. The featured collection includes a leather jacket, a long-sleeve shirt, a leather-accent hoodie, and a gothic henley.
+I am working on clothing designs, including a leather jacket, a long-sleeve shirt, a leather-accent hoodie, and a gothic henley.
 
 ### 4. Who is the target audience?
-Young adults, approximately ages 18-30, who like streetwear, black clothing, gothic influences, and understated branding.
+My target audience is young adults around ages 18-30 who like streetwear, darker colors, and simple branding.
 
 ### 5. What problem does this business solve?
-It offers a design direction for people who want expressive clothing with subtle details and limited large front branding.
+I want to offer clothing that stands out through its details without needing a large logo on the front.
 
 ### 6. What makes this business unique compared to competitors?
-Its combination of New York after-dark inspiration, gothic influences, mostly black clothing, subtle hardware, and restrained red accents creates its identity. These are design choices, rather than claims that no other brand uses them.
+What makes my brand different is the way I combine a New York night-time feel with gothic details. I mainly use black, with small red accents and subtle hardware.
 
 ### 7. What pages will your website include?
 Home, Collection, About, and Contact.
 
 ### 8. Write a short mission statement.
-Our mission is to create distinctive clothing that combines dark style, understated elegance, and thoughtful details.
+My mission is to make clothing that feels dark, simple, and different, while still being easy to wear.
 
 ### 9. What tone should the website content have?
-Modern, clear, and professional, with short descriptions that are easy to understand.
+I want the writing to sound modern and professional, but still simple and easy to understand.
 
 ### 10. What call-to-action do you want visitors to take?
-The main action is View the Collection. Visitors can also learn about the brand and try the contact form.
+I want visitors to click View the Collection. Visitors can also learn about the brand and try the contact form.
 
 ### 11. What information must be immediately visible on the homepage?
 The business name, tagline, navigation, a brief explanation of the clothing brand, and a button leading to the collection.
 
 ### 12. Will the site include images, videos, or other media? Why?
-It includes four original SVG concept illustrations to help visitors understand the garment types. They are labeled as illustrations and are not product photographs. Video is not necessary for this simple project.
+I included simple illustrations of the four clothing designs so visitors can see the general idea. These are concept images, not actual product photos. I did not include video because the site does not need it.
 
 ## Part 2: Design
 
 ### 1. What overall style will the website have?
-A simple clothing showcase with a dark header, light main content, bordered product cards, and a clean two-column layout.
+I chose a simple layout with a dark header, a light background, and two product cards in each row.
 
 ### 2. What color scheme will you use and why?
 Black (#171717) and dark gray (#303030) reflect the brand. Off-white (#f6f4f1) and white improve readability. Dark red (#702731) highlights buttons and links without overwhelming the design.
 
 ### 3. What fonts will you use for headings and body text?
-Georgia for headings and Arial for body text. These common system fonts avoid external font downloads and keep the design simple.
+I used Georgia for headings and Arial for the rest of the text. They are easy to read and work without downloading extra fonts.
 
 ### 4. How will spacing and layout improve readability?
 The content has a maximum width of 1000 pixels, with padding around sections. Product cards have gaps between them. Body text uses a line height of 1.6.
@@ -65,10 +65,10 @@ The brand name comes first, followed by the homepage heading, a short introducti
 Every page uses the same header, navigation, footer, colors, and shared stylesheet. Buttons, headings, and spacing follow the same styles.
 
 ### 8. What icons will you use?
-No icon library is needed. Descriptive text links and buttons make the basic navigation clear.
+I did not use icons. I used text links and buttons so visitors can easily tell what each option does.
 
 ### 9. What emotions should the design evoke?
-Confidence, individuality, and a calm, understated feeling.
+I want the site to feel confident and simple, with a darker style that matches the brand.
 
 ### 10. How will accessibility be considered?
 The site uses semantic HTML, meaningful image descriptions, visible form labels, readable text, strong contrast, keyboard focus outlines, a skip link, and current-page navigation indicators. Form errors appear as text and are connected to their fields. Filter buttons expose their selected state. Feedback uses a live status region. No animation is used.
@@ -106,7 +106,7 @@ The content and collection focus on young adults interested in dark streetwear. 
 
 ## Content strategy
 
-Use short, accurate descriptions and a clear mission statement. Avoid invented reviews, sales claims, prices, stock levels, or delivery promises. Label the images and form as demonstrations.
+I kept the descriptions short and focused on the brand and clothing designs. I left out prices and shopping features because this project is a showcase. The contact form is clearly marked as a demo.
 
 ## Information organization
 
@@ -150,7 +150,7 @@ STUDY-GUIDE.md   Basic explanation and manual testing steps
 
 ## Timeline / project milestones
 
-This is a suggested workflow, not a record of dates already completed.
+I organized the project into these main steps:
 
 | Milestone | Work |
 | --- | --- |
@@ -168,7 +168,7 @@ This is a suggested workflow, not a record of dates already completed.
 - MDN CSS reference: https://developer.mozilla.org/en-US/docs/Web/CSS
 - MDN JavaScript reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - GitHub Pages setup: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
-- ChatGPT assisted with the planning, draft code, concept illustrations, and explanations. Review and adapt this work according to the course's rules on AI assistance.
+- I used ChatGPT for help with the planning, draft code, concept illustrations, and explanations.
 
 No third-party photographs, fonts, icon libraries, or website templates are included. The SVG illustrations were created specifically for this project. The existing brand website is a content reference, not a source-code template.
 
